@@ -1,0 +1,2 @@
+composer require laravel/horizon:^5.31 --ignore-platform-reqs
+install php redis add it to php.ini
